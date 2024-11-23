@@ -8,8 +8,8 @@ export default [
     groupList: {
       '召集人': ['awdrgyj8'],
       'UI/UX': ['awdrgyj8'],
-      '前端': ['awdrgyj8'],
-      '後端': ['awdrgyj8'],
+      '前端': ['naruko_hstk'],
+      '後端': ['naruko_hstk'],
       'APP': ['awdrgyj8'],
     },
   },
