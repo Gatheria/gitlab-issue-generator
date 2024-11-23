@@ -2,7 +2,7 @@
 
 這個專案提供了批次開卡的功能，可以讓你在短時間內開出大量的 GitLab issue。
 ## 更改名單
-請修改 [src/assets/events.js](https://github.com/gnehs/issue-generator/blob/main/src/assets/events.js) 檔案並發送 PR。
+請修改 [src/assets/events.js](src/assets/events.js) 檔案並發送 PR。
 
 ## Recommended IDE Setup
 
